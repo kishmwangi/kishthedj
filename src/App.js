@@ -14,7 +14,7 @@ function App() {
           className="App-link"
           href="https://www.instagram.com/kishthedj_/"
           target="_blank"
-          rel="noopener noreferrer" 
+          rel="noopener noreferrer"
         >
           Follow me on Instagram
         </a>
